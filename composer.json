@@ -2,7 +2,7 @@
     "name": "zroig/zlanghelper",
     "description": "zLangHelper works as a simple translation helper for Laravel and Inertia projects. Making Laravel translations work as normal with Vue. You can find a guide at: https://github.com/Zroig/zLangHelper",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "keywords": [
         "laravel",
         "inertia",
